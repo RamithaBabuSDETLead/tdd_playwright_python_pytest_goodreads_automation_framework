@@ -1,15 +1,18 @@
-# Ignore everything outside project
-../*
-../../*
-
-# Ignore virtual environments
-.venv/
+# Python
 __pycache__/
+*.pyc
 
-# Ignore IDE configs
+# Virtual environment
+.venv/
+
+# IDE configs
 .idea/
 .vscode/
 
-# Ignore reports/logs
-*.html
+# Reports/logs
 *.log
+*.html
+
+# Ignore everything outside project root
+../*
+../../*
