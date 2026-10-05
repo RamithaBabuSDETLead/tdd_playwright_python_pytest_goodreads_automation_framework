@@ -42,6 +42,7 @@ Run tests:
 
 bash
 pytest --headed --html=report.html
+
 🧠 Key Features
 Modular and reusable test design
 
