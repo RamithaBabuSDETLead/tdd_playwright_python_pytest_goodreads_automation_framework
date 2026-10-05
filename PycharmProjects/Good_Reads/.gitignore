@@ -1,0 +1,15 @@
+# Ignore everything outside project
+../*
+../../*
+
+# Ignore virtual environments
+.venv/
+__pycache__/
+
+# Ignore IDE configs
+.idea/
+.vscode/
+
+# Ignore reports/logs
+*.html
+*.log
