@@ -1,18 +1,12 @@
-# Python
-__pycache__/
-*.pyc
-
-# Virtual environment
-.venv/
-
-# IDE configs
-.idea/
-.vscode/
-
-# Reports/logs
+# Ignore system/user files
 *.log
-*.html
-
-# Ignore everything outside project root
-../*
-../../*
+*.tmp
+.vscode/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+OneDrive/
